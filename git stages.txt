@@ -1,0 +1,8 @@
+Files in GitHub can be in any of the following three states:
+
+Modified: In this state, modifications are made to a file or files, and the changes are still on our local system.
+
+Staged: In this stage, the changed files are added to the staging area, which means the files will now become a part of your development history.
+
+Committed: In this stage, we make a record or take a snapshot of the files we have added to the staging area or our development history.
+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  
